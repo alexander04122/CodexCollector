@@ -1,0 +1,3 @@
+backend/CodexCollector.API/obj/*
+backend/CodexCollector.Core/obj/*
+backend/CodexCollector.Data/obj/*

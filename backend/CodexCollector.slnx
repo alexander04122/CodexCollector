@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodexCollector.API/CodexCollector.API.csproj" />
+  <Project Path="CodexCollector.Core/CodexCollector.Core.csproj" />
+  <Project Path="CodexCollector.Data/CodexCollector.Data.csproj" />
+</Solution>
